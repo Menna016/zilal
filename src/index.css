@@ -14,7 +14,11 @@
     height: 100vh;
 }
 .active {
+<<<<<<< HEAD
     background-color: #b59d16;
+=======
+    background-color: #1abc9c;
+>>>>>>> 9925b70d4a3a84463466546ee7e71fc625a64f3e
 }
 body {
   margin: 0;

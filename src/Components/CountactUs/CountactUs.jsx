@@ -11,7 +11,11 @@ export default function ContactUs() {
     return (
         <div className="min-h-screen bg-[#eac997] text-gray-800 flex flex-col items-center pt-20 pb-16 px-6 md:px-24">
 
+<<<<<<< HEAD
             
+=======
+            {/* ===== صورة رأسية ===== */}
+>>>>>>> 9925b70d4a3a84463466546ee7e71fc625a64f3e
             <div className="w-screen h-[400px] md:h-[600px] overflow-hidden mb-[-100px]">
                 <img
                     src={header}
@@ -21,7 +25,11 @@ export default function ContactUs() {
             </div>
 
 
+<<<<<<< HEAD
             
+=======
+            {/* ===== صندوق النص ===== */}
+>>>>>>> 9925b70d4a3a84463466546ee7e71fc625a64f3e
             <div className="bg-white p-8 shadow-xl max-w-xl text-center mb-12 rounded-xl border border-[#e8e1d3]">
                 <h2 className="text-4xl font-[Great_Vibes] text-[#a88f6b] mb-4">
                     We'd Love to Hear from You
@@ -35,7 +43,11 @@ export default function ContactUs() {
                 </p>
             </div>
 
+<<<<<<< HEAD
             
+=======
+            {/* ===== نموذج الاتصال ===== */}
+>>>>>>> 9925b70d4a3a84463466546ee7e71fc625a64f3e
             <form className="w-full max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-6 mb-16">
                 <input
                     type="text"
@@ -67,7 +79,11 @@ export default function ContactUs() {
                 </div>
             </form>
 
+<<<<<<< HEAD
             
+=======
+            {/* ===== شبكة صور التواصل الاجتماعي ===== */}
+>>>>>>> 9925b70d4a3a84463466546ee7e71fc625a64f3e
             <div className="grid grid-cols-3 md:grid-cols-6 gap-3 max-w-6xl">
                 {[social1, social2, social3, social4, social5, social6].map((img, i) => (
                     <img
